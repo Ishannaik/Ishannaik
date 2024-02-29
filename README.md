@@ -1,4 +1,21 @@
-### Hi there 👋
+
+Hi there, I'm Ishan👋
+<!--
+
+I'm a Student, Developer, and Gamer!!
+🔭 Check out my VS Code course: Become A VS Code SuperHero!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Learn web development
+⚡ Fun fact: I love to draw and play guitar / drums
+😻 Check out the NFT collection I created: CodeCats
+Connect with me:
+website    website    website    website    website
+
+Languages and Tools:
+-->
+
+
 
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishannaik)](https://github.com/anuraghazra/github-readme-stats)
 
