@@ -1,5 +1,4 @@
 
-Hi there, I'm Ishan👋
 <!--
 
 I'm a Student, Developer, and Gamer!!
