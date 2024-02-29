@@ -17,7 +17,7 @@ Languages and Tools:
 
 ![Hi, I'm Ishan! Al   ML Developer, Always exploring new horizons  (2)](https://github.com/Ishannaik/Ishannaik/assets/11766476/fd806fe2-3f9f-4a5a-b66b-f942d30e4130)
 
-[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishannaik)](https://github.com/anuraghazra/github-readme-stats)
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishannaik&show_icons=true&theme=transparent)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
 
