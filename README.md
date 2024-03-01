@@ -16,6 +16,7 @@ Languages and Tools:
 
 
 ![Hi, I'm Ishan! Al   ML Developer, Always exploring new horizons  (2)](https://github.com/Ishannaik/Ishannaik/assets/11766476/fd806fe2-3f9f-4a5a-b66b-f942d30e4130)
+My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,tensorflow,pytorch,svelte,express,nodejs,vscode,docker,github,sublime,stackoverflow,robloxstudio,replit,raspberrypi,npm,nextjs,jest,twitter,youtube,ubuntu,windows,vercel,netlify,heroku,graphql,grafana,gmail,gitlab,gcp,firebase,figma,electron,eclipse,discord,aws,anaconda,ae,mongodb,mysql,sql,json,instagram,notion,git,ps,pr&theme=dark)](https://skillicons.dev)
 
 ![ishannaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishannaik&show_icons=true&title_color=ff6f00&icon_color=ff6f00&text_color=585858&bg_color=00000000)
