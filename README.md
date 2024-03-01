@@ -70,6 +70,15 @@ My Skills:
 
 ![ishannaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishannaik&show_icons=true&title_color=ff6f00&icon_color=ff6f00&text_color=585858&bg_color=00000000)
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/dist/github-snake-dark.svg" />
+</picture>
+</div>
+
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
 
 <!--
