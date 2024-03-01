@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishan+Naik!;" />
 </h1>
 
+![Hi, I'm Ishan! Al   ML Developer, Always exploring new horizons  (2)](https://github.com/Ishannaik/Ishannaik/assets/11766476/fd806fe2-3f9f-4a5a-b66b-f942d30e4130)
 
 <div align="center">
   🔭 I’m currently working on learning to build a fully fledged ECommerce Website
@@ -11,17 +12,27 @@
   🌱 I’m currently learning **Docker, Svelte, Machine Learning, and Node.js**
 
   💬 Ask me about **Creating game servers, deploying applications, or anything [here](https://github.com/ishannaik/ishannaik/issues)**
-
 </div>
 
+<h1 align="center">
+ 📫Connect with Me 📫
+</h1>
+
+You can connect with me on various platforms:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishannaik7/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/ishannaik7)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishannaik7/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishannaik)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5cqgErvhRaNK3z0gy_r6vQ)
+[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.github.com/ishannaik)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me%20on%20Gmail-critical?style=for-the-badge&logo=gmail)](mailto:ishannaik7@gmail.com)
+[![Discord Server](https://img.shields.io/discord/1213134833837019237?color=blue&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/GBTXBUcuzR)
 
 
 
-Languages and Tools:
--->
 
 
-![Hi, I'm Ishan! Al   ML Developer, Always exploring new horizons  (2)](https://github.com/Ishannaik/Ishannaik/assets/11766476/fd806fe2-3f9f-4a5a-b66b-f942d30e4130)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -246,20 +257,9 @@ Languages and Tools:
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishannaik&layout=compact&title_color=ff6f00&text_color=585858&bg_color=00000000" alt="top langs"/>
 </div>
 
+<br>
+
+<h2 align="center">🙋‍♂️ Support 🙋‍♂️</h2>
+💙 If you like this project, give it a ⭐ and share it with friends!
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
-
-
-<!--
-**Ishannaik/Ishannaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
