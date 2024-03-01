@@ -1,23 +1,34 @@
+<div style="display: flex; justify-content: space-between;">
+  <h1 style="text-align: center; flex: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishan+Naik!;" />
+  </h1>
+  
+  <div style="text-align: right; flex: 1;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" align="right" alt="Visitors">
+  </div>
+</div>
 
-<!--
+<div align="center">
+  🔭 I’m currently working on **a marketplace**
+ 
+  🌱 I’m currently learning **Docker, Svelte, Machine Learning, and Node.js**
 
-I'm a Student, Developer, and Gamer!!
-🔭 Check out my VS Code course: Become A VS Code SuperHero!!
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2022 Goals: Learn web development
-⚡ Fun fact: I love to draw and play guitar / drums
-😻 Check out the NFT collection I created: CodeCats
-Connect with me:
-website    website    website    website    website
+  💬 Ask me about **Creating game servers, deploying applications, or anything [here](https://github.com/ishannaik/ishannaik/issues)**
+
+</div>
+
+
+
 
 Languages and Tools:
 -->
 
 
 ![Hi, I'm Ishan! Al   ML Developer, Always exploring new horizons  (2)](https://github.com/Ishannaik/Ishannaik/assets/11766476/fd806fe2-3f9f-4a5a-b66b-f942d30e4130)
-My Skills:
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -66,9 +77,14 @@ My Skills:
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 [![Photoshop](https://skillicons.dev/icons?i=ps&theme=dark)](https://www.adobe.com/products/photoshop.html)
 [![PostgreSQL](https://skillicons.dev/icons?i=pr&theme=dark)](https://www.postgresql.org/)
+</div>
 
+<br/>
+<hr/>
 
-![ishannaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishannaik&show_icons=true&title_color=ff6f00&icon_color=ff6f00&text_color=585858&bg_color=00000000)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 
 <div align="center">
   <picture>
@@ -79,9 +95,17 @@ My Skills:
 </div>
 
 
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ishannaik&show_icons=true&title_color=ff6f00&icon_color=ff6f00&text_color=585858&bg_color=00000000" alt="readme stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ishannaik&theme=default" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishannaik&layout=compact&title_color=ff6f00&text_color=585858&bg_color=00000000" alt="top langs"/>
+</div>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
+
 
 <!--
 **Ishannaik/Ishannaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
