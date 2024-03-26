@@ -9,7 +9,7 @@
 <div align="center">
   🔭 I’m currently working on learning to build a fully fledged ECommerce Website
  
-  🌱 I’m currently learning **Docker, Svelte, Machine Learning, and React**
+  🌱 I’m currently learning **Docker, Kubernetes, Svelte, Machine Learning, and React**
 
   💬 Ask me about **Creating game servers, deploying applications, or anything [here](https://github.com/ishannaik/ishannaik/issues)**
 </div>
