@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishan+Naik!;" />
 </h1>  
-
+ 
 ![Hi, I'm Ishan! Al   ML Developer, Always exploring new horizons  (2)](https://github.com/Ishannaik/Ishannaik/assets/11766476/fd806fe2-3f9f-4a5a-b66b-f942d30e4130)  
  
 <div align="center">  
